@@ -8,3 +8,7 @@
 alot of concepts that i may have forgotten or didn't understand before.
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
+
+### March 12th 2024 - Day 2 of 100
+
+**Today's Progress**:
