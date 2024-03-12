@@ -11,4 +11,11 @@ alot of concepts that i may have forgotten or didn't understand before.
 
 ### March 12th 2024 - Day 2 of 100
 
-**Today's Progress**:
+**Today's Progress**: Familiarised with vercel for hosting past projects 
+    and did some studying on Arduino 
+
+**Thought's**: It was a bit challenging to host fullstack applications on Vercel
+I am yet to successfully deploy my projects. On Arduino I am familiarising myself with the environment
+and gathering resources for further learning.
+
+**Link To work**: https://github.com/abdiomari/100DaysOfCode
