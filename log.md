@@ -19,3 +19,13 @@ I am yet to successfully deploy my projects. On Arduino I am familiarising mysel
 and gathering resources for further learning.
 
 **Link To work**: https://github.com/abdiomari/100DaysOfCode
+
+### March 13th 2024 - Day 3 of 100
+
+**Today's Work**: Worked on Python Scripts for cybersecurity.Python has some powerful libraries 
+that can be used to create some useful security and automation tools.
+
+**Thoughts**: Python's versatility makes it unique in creating cool tools for cybersecurity tools 
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
+
