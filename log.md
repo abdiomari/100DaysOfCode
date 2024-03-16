@@ -46,3 +46,11 @@ that can be used to create some useful security and automation tools.
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-5
 
+
+### March 16th 2024 - Day 6 of 100
+
+**Today's Work**: Went Through Vite documentations. Starting a revamp of my personal portfolio.
+
+**Thoughts**: from npm create react to npm create vite...makes things a bit lighter and faster
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-6

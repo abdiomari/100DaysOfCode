@@ -2,10 +2,11 @@
  * Password validator for login pages
  */
 document.addEventListener("DOMContentLoaded", function() {
+
 const form = document.querySelector("form")
 const password = document.getElementById("password");
 const passwordError = document.querySelector("#password + span.error")
-// import value from 'assets/scss/_themes-vars.module.scss';
+
 const errorMain = "#f44336";
 const warningDark = "#ffc107";
 const orangeMain = "#ffab91";
@@ -50,6 +51,7 @@ const rules = {
   special: { test: hasSpecial, element: document.getElementById('special') },
 };
 
+
 password.addEventListener("input", (event) => {
   const passwordValue = password.value;
   const passwordStrength = strengthIndicator(passwordValue);
@@ -86,6 +88,7 @@ const confirmPassword = document.getElementById("confirmPassword");
       confirmPasswordError.textContent = 'Passwords do not match';
       confirmPasswordError.style.color = errorMain;
       confirmPasswordError.style.display = 'block';
+      // console.log("This is working")
     } else {
       confirmPassword.style.borderColor = successMain;
       confirmPasswordError.textContent = 'Passwords match';

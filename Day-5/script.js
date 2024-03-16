@@ -1,9 +1,11 @@
-
-const form = docuent.querySelector("form");
-const email = document.geElementById("mail");
+// DOM manipulation - Document Object Model
+// declaring variables 
+const form = document.querySelector("form");
+const email = document.getElementById("mail");
 const emailError = document.querySelector("#mail + span.error");
 
-email.addEvenListener("input", (event) => {
+// 
+email.addEventListener("input", (event) => {
     if (email.validity.valid){
         emailError.textContent = "";
         emailError.className = "error";
@@ -12,7 +14,7 @@ email.addEvenListener("input", (event) => {
     }
 });
 
-form.addEvenListener("submit", (event) => {
+form.addEventListener("submit", (event) => {
     if (!email.validity.valid){
         showError();
     }

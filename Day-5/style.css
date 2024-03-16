@@ -37,18 +37,18 @@ body {
   }
   
   /* This is the style of our error messages */
-  /* .error { */
-    /* width: 100%; */
-    /* margin-top: 5px;
+  .error {
+    width: 100%;
+   margin-top: 5px;
     padding: 10px;
     font-size: 80%;
-    color: white; */
-    /* background-color: #f44336; */
-    /* border-radius: 0 0 5px 5px;
+    color: white;
+    background-color: #f44336;
+    border-radius: 0 0 5px 5px;
     box-sizing: border-box;
   }
   
   .error.active {
     padding: 0.3em;
-  } */
+  }
   
