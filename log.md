@@ -29,3 +29,11 @@ that can be used to create some useful security and automation tools.
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
+### March 14th 2024 - Day 4 of 100
+
+**Today's Work**: Did some tutorials and research on SASS and pre-compiled CSS
+
+**Thoughts**: Who knew CSS has variables and elements can be nested too!
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
+

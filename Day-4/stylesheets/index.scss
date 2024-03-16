@@ -1,0 +1,157 @@
+$myfont: Raleway;
+$text: #000;
+$reset: 0px;
+$spacing: 20px;
+// primary
+$primaryLight: #eef2f6;
+$primaryMain: #2196f3;
+$primaryDark: #1e88e5;
+$primary200: #90caf9;
+$primary800: #1565c0;
+
+// secondary
+$secondaryLight: #ede7f6;
+$secondaryMain: #673ab7;
+$secondaryDark: #5e35b1;
+$secondary200: #b39ddb;
+$secondary800: #4527a0;
+
+@mixin border{
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+@mixin button{
+    list-style-type: none;
+    padding: $spacing;
+    border: none;
+    background-color: $secondaryDark;
+    margin: 10px;
+    margin-right: $spacing;
+    box-shadow: 0 3px 6px #000000;
+
+    a {
+        
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bolder;
+    }
+
+
+}
+
+@mixin layout {
+    background-color: $primaryLight;
+    font: $myfont;
+    box-shadow: 0 3px 6px #bbbbbb;
+    transition: all .2s ease-in-out;
+}
+
+@mixin sidebar{
+    width: 300px;
+    padding-top:$spacing;
+    height: 100vh;
+    // @include border();
+}
+
+@mixin container_lg{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font: $myfont;
+}
+
+@mixin h1 {
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: semibold;
+    text-align: center;
+}
+
+@mixin grid-layout{
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+    grid-gap: 20px;
+}
+
+body{
+    margin: $reset;
+}
+
+nav {
+    @include container_lg();
+    @include layout();
+
+    .logo {
+       @include h1();
+    }
+
+    ul {
+        @include container_lg();
+    }
+
+    li {
+        margin-right: $spacing;
+        text-wrap: nowrap;
+        list-style-type: none;
+    }
+
+    a {
+        
+        text-decoration: none;
+        color: $text;
+    }
+
+    a:hover {
+        color: $secondaryDark;
+    }
+}
+
+.layout {
+
+    @include grid-layout();
+
+    .side-layout{
+        @include layout();
+        @include sidebar();
+        @include h1();
+    
+        li{
+            @include border();
+            @include button()
+        }
+    
+        li:hover{
+            @include layout();
+        }
+    
+    }
+
+    table{
+        margin-top: $spacing;
+        background-color: $primaryLight;
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    thead{
+        background-color: $secondary200;
+        @include h1();
+    }
+    
+    th, td {
+        padding: 0.5rem;
+        border: 1px solid #ddd;
+        text-align: left;
+      }
+      
+      th {
+        background-color: #f2f2f2;
+      }
+      
+      tbody tr:nth-child(even) { // Style even rows
+        background-color: $secondary200;
+      }
+}

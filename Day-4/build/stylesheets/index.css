@@ -1,0 +1,106 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font: Raleway;
+  background-color: #eef2f6;
+  font: Raleway;
+  box-shadow: 0 3px 6px #bbbbbb;
+  transition: all 0.2s ease-in-out;
+}
+nav .logo {
+  padding: 10px;
+  font-size: 1.2rem;
+  font-weight: semibold;
+  text-align: center;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font: Raleway;
+}
+nav li {
+  margin-right: 20px;
+  text-wrap: nowrap;
+  list-style-type: none;
+}
+nav a {
+  text-decoration: none;
+  color: #000;
+}
+nav a:hover {
+  color: #5e35b1;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: 1fr 8fr;
+  grid-gap: 20px;
+}
+.layout .side-layout {
+  background-color: #eef2f6;
+  font: Raleway;
+  box-shadow: 0 3px 6px #bbbbbb;
+  transition: all 0.2s ease-in-out;
+  width: 300px;
+  padding-top: 20px;
+  height: 100vh;
+  padding: 10px;
+  font-size: 1.2rem;
+  font-weight: semibold;
+  text-align: center;
+}
+.layout .side-layout li {
+  border: 1px solid #000;
+  border-radius: 10px;
+  list-style-type: none;
+  padding: 20px;
+  border: none;
+  background-color: #5e35b1;
+  margin: 10px;
+  margin-right: 20px;
+  box-shadow: 0 3px 6px #000000;
+}
+.layout .side-layout li a {
+  text-decoration: none;
+  color: #ffffff;
+  font-weight: bolder;
+}
+.layout .side-layout li:hover {
+  background-color: #eef2f6;
+  font: Raleway;
+  box-shadow: 0 3px 6px #bbbbbb;
+  transition: all 0.2s ease-in-out;
+}
+.layout table {
+  margin-top: 20px;
+  background-color: #eef2f6;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.layout thead {
+  background-color: #b39ddb;
+  padding: 10px;
+  font-size: 1.2rem;
+  font-weight: semibold;
+  text-align: center;
+}
+.layout th, .layout td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+.layout th {
+  background-color: #f2f2f2;
+}
+.layout tbody tr:nth-child(even) {
+  background-color: #b39ddb;
+}
+
+/*# sourceMappingURL=index.css.map */

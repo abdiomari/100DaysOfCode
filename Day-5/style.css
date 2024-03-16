@@ -1,0 +1,54 @@
+body {
+    font: 1em sans-serif;
+    width: 100vw;
+    padding: 0;
+    margin: 0 auto;
+  }
+  
+  p * {
+    display: block;
+  }
+  
+  input {
+    appearance: none;
+  
+    width: 100%;
+    border: 1px solid #333;
+    margin: 0;
+  
+    font-family: inherit;
+    font-size: 90%;
+  
+    box-sizing: border-box;
+  }
+  
+  /* This is our style for the invalid fields */
+  input:invalid {
+    border-color: #f44336;
+    background-color: #fdd;
+  }
+  
+  input:focus:invalid {
+    outline: none;
+  }
+
+  .errorEmpty{
+    background-color: #f443365d;
+  }
+  
+  /* This is the style of our error messages */
+  /* .error { */
+    /* width: 100%; */
+    /* margin-top: 5px;
+    padding: 10px;
+    font-size: 80%;
+    color: white; */
+    /* background-color: #f44336; */
+    /* border-radius: 0 0 5px 5px;
+    box-sizing: border-box;
+  }
+  
+  .error.active {
+    padding: 0.3em;
+  } */
+  
