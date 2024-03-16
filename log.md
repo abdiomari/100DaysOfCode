@@ -37,3 +37,12 @@ that can be used to create some useful security and automation tools.
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
+
+### March 15th 2024 - Day 5 of 100
+
+**Today's Work**: Went Back to Javascript Form Validation
+
+**Thoughts**: I got a deeper understanding of how Vanilla Javascript and discovered more than one way of DOM manipulation
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-5
+
