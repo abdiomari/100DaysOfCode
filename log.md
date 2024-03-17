@@ -54,3 +54,12 @@ that can be used to create some useful security and automation tools.
 **Thoughts**: from npm create react to npm create vite...makes things a bit lighter and faster
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-6
+
+
+### March 17th 2024 - Day 7 of 100
+
+**Today's Work**: Made progress on my portfolio project.
+
+**Thoughts**: Designing a website is key to developing it faster.
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-6

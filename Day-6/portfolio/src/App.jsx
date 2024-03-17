@@ -1,5 +1,7 @@
 import Header from "./components/Header"
 import Home from "./pages/Home"
+import WorkWithMe from "./pages/wwm"
+import Footer from "./components/Footer"
 
 function App() {
 
@@ -7,6 +9,8 @@ function App() {
     <>
     <Header />
     <Home />
+    <WorkWithMe />
+    <Footer />
     </>
   )
 }
