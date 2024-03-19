@@ -63,3 +63,13 @@ that can be used to create some useful security and automation tools.
 **Thoughts**: Designing a website is key to developing it faster.
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-6
+
+
+### March 18th 2024 - Day 8 of 100
+
+**Today's Work**: Almost completed revamping my portfolio project.
+
+**Thoughts**: I should be able to deploy within the week.
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-6
+
