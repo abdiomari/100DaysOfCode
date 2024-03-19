@@ -73,3 +73,13 @@ that can be used to create some useful security and automation tools.
 
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode/Day-6
 
+### March 19th 2024 - Day 9 of 100
+
+**Today's Work**: Did some studying on Charts and played around with chart.js.
+
+**Thoughts**: I want to use charts with React and explore the possibilities of live charts using APIs.
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode/tree/main/Day-9
+
+
+
