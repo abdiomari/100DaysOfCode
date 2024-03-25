@@ -82,4 +82,12 @@ that can be used to create some useful security and automation tools.
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode/tree/main/Day-9
 
 
+### March 22nd 2024 - Day 10 of 100
+
+**Today's Work**: Work on API with some chart and Map functions in React.
+
+**Thoughts**: APIs are fun once you figure out how to use them.
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode/tree/main/Day-9
+
 
