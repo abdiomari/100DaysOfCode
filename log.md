@@ -91,3 +91,41 @@ that can be used to create some useful security and automation tools.
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode/tree/main/Day-9
 
 
+### March 25th 2024 - Day 11 of 100
+
+**Today's Work**: Studied and did research on Database integrations in Django.(mysql vs oracle)
+
+**Thoughts**: It is surprisingly easy to connect the django backend to an external database.
+
+**Link to Work**: To be updated on Day 12
+
+### March 26th 2024 - Day 12 of 100
+
+**Today's Work**: Practical on using oracle db and oracle cloud with django applications
+
+**Thought's**: 
+
+**Link To Work**: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
