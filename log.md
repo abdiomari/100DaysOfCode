@@ -101,11 +101,12 @@ that can be used to create some useful security and automation tools.
 
 ### March 26th 2024 - Day 12 of 100
 
-**Today's Work**: Practical on using oracle db and oracle cloud with django applications
+**Today's Work**: Practical on using postgres with django applications
 
-**Thought's**: 
+**Thought's**: Configuring an application for production is quite the challenge
 
-**Link To Work**: 
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
+
 
 
 
