@@ -108,7 +108,13 @@ that can be used to create some useful security and automation tools.
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
 
+### March 26th 2024 - Day 13 of 100
 
+**Today's Work**: 
+
+**Thought's**: 
+
+**Link To Work**: 
 
 
 
