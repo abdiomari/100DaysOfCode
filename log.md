@@ -108,13 +108,13 @@ that can be used to create some useful security and automation tools.
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
 
-### March 26th 2024 - Day 13 of 100
+### March 27th 2024 - Day 13 of 100
 
-**Today's Work**: 
+**Today's Work**: Still on Deployment, I am trying to deploy applications i have built to render.com
 
-**Thought's**: 
+**Thought's**: 404, 400, 502, 304 i am almost fluent in error codes 
 
-**Link To Work**: 
+**Link To Work**: https://django-authentication-app.onrender.com/login/
 
 
 
