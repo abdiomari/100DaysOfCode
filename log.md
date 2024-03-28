@@ -116,6 +116,14 @@ that can be used to create some useful security and automation tools.
 
 **Link To Work**: https://django-authentication-app.onrender.com/login/
 
+### March 28th 2024 - Day 14 of 100
+
+**Today's Work**: After Deployment i decided to set up authentication for the django application instead of just a simple html page
+
+**Thought's**: A couple of errors later, i still haven't managed to authenticate users but there is sgnificant progress
+
+**Link To Work**: https://django-authentication-app.onrender.com/login/
+
 
 
 

@@ -1,0 +1,13 @@
+Work Done on a different Repo
+
+django
+flowbite
+Tailwind CSS
+Docker
+Render
+
+Check django-authentication-app
+
+link: https://github.com/abdiomari/django-authentication-app
+
+Resources: https://gist.github.com/raykipkorir/18a4f3eec06a48214cc9c3aa274ffe57
