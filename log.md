@@ -122,7 +122,15 @@ that can be used to create some useful security and automation tools.
 
 **Thought's**: A couple of errors later, i still haven't managed to authenticate users but there is sgnificant progress
 
-**Link To Work**: https://django-authentication-app.onrender.com/login/
+**Link To Work**: https://github.com/abdiomari/django-authentication-app/tree/auth
+
+### March 29th 2024 - Day 15 of 100
+
+**Today's Work**: Learnt how to set up auth in django.I managed to get the registration, login and logout features to work. with a bit of forms validation
+
+**Thought's**: This requires a lot of practice to master and implement seamlessly every time i will need it
+
+**Link To Work**: https://github.com/abdiomari/django-authentication-app/tree/auth
 
 
 
