@@ -133,6 +133,16 @@ that can be used to create some useful security and automation tools.
 **Link To Work**: https://github.com/abdiomari/django-authentication-app/tree/auth
 
 
+### March 30th 2024 - Day 16 of 100
+
+**Today's Work**: I learnt how to dockerise Django Applications, set up for deployment and successfully deployed several apps
+
+**Thought's**: Deploying Apps to use on my portfolio has been a good experience i have discovered so many ways of deploying backend/fullstack apps for free
+
+**Link To Work**: https://inventory-management-luis.onrender.com
+
+
+
 
 
 

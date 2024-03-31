@@ -1,0 +1,10 @@
+Work Done on a different Repo : https://github.com/abdiomari/Inventory_management
+
+django
+Tailwind CSS
+Docker
+Render
+
+Check django-authentication-app
+
+link: https://inventory-management-luis.onrender.com/
