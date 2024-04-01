@@ -144,13 +144,22 @@ that can be used to create some useful security and automation tools.
 
 ### March 31st 2024 - Day 17 of 100
 
-**Today's Work**: I started studies on Google Maps APIs, Recaptcha setup with Django applications. Also had a look at deploying apps with Amazon EC@
+**Today's Work**: I started studies on Google Maps APIs, Recaptcha setup with Django applications. Also had a look at deploying apps with Amazon EC2
 
 **Thought's**:I've never given any thought as to how devs set up recaptcha for
 their systems/applications. There is a lot of APIs by google i want to explore 
 the possibilities 
 
 **Link To Work**:yet to commit.... 
+
+
+### April 1st 2024 - Day 18 of 100
+
+**Today's Work**: 
+
+**Thought's**: 
+
+**Link To Work**: 
 
 
 
