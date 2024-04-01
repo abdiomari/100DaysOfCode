@@ -155,11 +155,11 @@ the possibilities
 
 ### April 1st 2024 - Day 18 of 100
 
-**Today's Work**: 
+**Today's Work**: I covered React hooks and created a todo list application for practise
 
-**Thought's**: 
+**Thought's**: Makes much more sense now that i have done it again
 
-**Link To Work**: 
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
 
 
