@@ -7,22 +7,16 @@ import {
   import SendIcon from '@mui/icons-material/Send';
  
 
-const NewTodo = () => {
+const NewTodo = ({ addTodo }) => {
 
     const [ newTodo, setNewTodo ] = useState('')
-    const [ todos, setTodos ] = useState([]);
 
     const handleInputChange = (event) => {
         setNewTodo(event.target.value);
     }
 
     const handleButtonClick = () => {
-        const todoObject = {
-            id: todos.length,
-            text: newTodo,
-            completed: false
-        };
-        setTodos([...todos, todoObject]);
+        addTodo(newTodo);
         setNewTodo('');
     };
 

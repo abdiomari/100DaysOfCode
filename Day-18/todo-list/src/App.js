@@ -1,6 +1,7 @@
-import './App.css';
+import React, { useState } from 'react';
 import Todo from './components/Todo';
 import { ThemeProvider, createTheme } from "@mui/material/styles";
+import NewTodo from './components/newTodo';
 
 const theme = createTheme({
   palette: {
@@ -35,11 +36,11 @@ const theme = createTheme({
 });
 
 function App() {
-  return (
+   return (
     <ThemeProvider theme={theme}>
-    <div className="App">
-      <Todo />
-    </div>
+      <div className="App">
+        <Todo  />
+      </div>
     </ThemeProvider>
   );
 }

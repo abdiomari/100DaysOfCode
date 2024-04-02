@@ -9,31 +9,29 @@ import {
 import CommentIcon from "@mui/icons-material/Comment";
 import DeleteIcon from '@mui/icons-material/Delete';
 
-const TodoList = () => {
-  const todos = ["1", "2", "3", "4", "5"];
+const TodoList = ({ todos = [], deleteTodo }) => {
+  // const todos = ["1", "2", "3", "4", "5"];
   return (
     <List sx={{ width: "100%", maxWidth: 360 }}>
-      {todos.map((value) => (
+      { todos.map( ( todo ) => (
         <ListItem
-          key={value}
+          key={ todo.id }
           disableGutters
           secondaryAction={
             <>
-            <IconButton aria-label="comment">
-              <Checkbox />
+            <IconButton aria-label="complete">
+              <Checkbox  checked={ todos.completed } />
               </IconButton>
               <IconButton aria-label="comment">
                 <CommentIcon />    
               </IconButton>
-              <IconButton aria-label="comment">
+              <IconButton aria-label="delete" onClick={() => deleteTodo(todo.id)}>
                 <DeleteIcon />
               </IconButton>
-              
-              
             </>
           }
         >
-          <ListItemText primary={`Todo ${value}`} />
+          <ListItemText primary={`Todo: ${ todo.text }`} />
         </ListItem>
       ))}
     </List>

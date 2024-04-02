@@ -162,6 +162,14 @@ the possibilities
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
 
+### April 2nd 2024 - Day 19 of 100
+
+**Today's Work**: I adjusted my todo list app in the process of learning different react hooks
+
+**Thought's**: Use of props to pass state between different components is one of the coolest features of eact
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
+
 
 
 
