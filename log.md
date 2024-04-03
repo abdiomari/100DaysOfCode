@@ -171,6 +171,14 @@ the possibilities
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
 
+### April 3rd 2024 - Day 20 of 100
+
+**Today's Work**: Today i worked with React Context to create themed apps and simplify creation of dark mode or multi themed applications
+
+**Thought's**: I still haven't fully understood it will definitely build on this knowledge to implement with libaries like Material ui
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
+
 
 
 
