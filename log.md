@@ -181,9 +181,18 @@ the possibilities
 
 
 
-### April 6th 2024 - Day 21 of 100
+### April 5th 2024 - Day 21 of 100
 
-**Today's Work**: Today i contibued working on React Context to create themed apps and simplify creation of dark mode or multi themed applications with Material Tailwind 
+**Today's Work**: Today i continued working on React Context to create themed apps and simplify creation of dark mode or multi themed applications with Material Tailwind 
+
+**Thought's**: I am building part of an ecommerce page as practise for themed applications
+
+**Link To Work**: https://github.com/abdiomari/100DaysOfCode
+
+
+### April 6th 2024 - Day 22 of 100
+
+**Today's Work**: Today i continued working on React Context to create themed apps and simplify creation of dark mode or multi themed applications with Material Tailwind 
 
 **Thought's**: I am building part of an ecommerce page as practise for themed applications
 
