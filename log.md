@@ -200,6 +200,33 @@ the possibilities
 **Link To Work**: https://github.com/abdiomari/100DaysOfCode
 
 
+### April 15th 2024 - Day 23 of 100
+
+**Today's Work**: I have started building an Ecomerce web app as a side project 
+
+**Thought's**: I am building an ecommerce site to implement most of the things i have been learning and experimenting
+
+**Link To Work**: https://github.com/abdiomari/Bonita-ecommerce
+
+
+### April 19th 2024 - Day 23 of 100
+
+**Today's Work**: I worked on the ecommerce application and set up a unform theme for the whole application
+
+**Thought's**: I have been struggling to maintain consistency on the challenge
+
+**Link To Work**: https://github.com/abdiomari/Bonita-ecommerce
+
+
+### April 24th 2024 - Day 24 of 100
+
+**Today's Work**: I worked on a budget tracker application built on React and django 
+
+**Thought's**: There are 2 ways to integrate django with React
+
+**Link To Work**: https://github.com/abdiomari/
+
+
 
 
 
